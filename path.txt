@@ -1,0 +1,1 @@
+set GOOGLE_APPLICATION_CREDENTIALS=F:\Projects\AI Camp Final\project-kk\Kai Kong-9e9b9a4ff23d.json
